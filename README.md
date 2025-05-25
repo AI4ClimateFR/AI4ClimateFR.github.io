@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[Preview](https://aiforclimatefr.github.io)
+[Enter website](https://ai4climatefr.github.io)
 
 </div>
 
