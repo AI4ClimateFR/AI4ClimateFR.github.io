@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Preview](readme_preview/al-folio-preview.png)](https://aiforclimatefr.github.io)
+[Preview](https://aiforclimatefr.github.io)
 
 </div>
 
