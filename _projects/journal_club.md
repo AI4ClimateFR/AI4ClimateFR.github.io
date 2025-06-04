@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-The AI4Climate team organizes regular journal club meetings to discuss recent papers in AI and climate science.
+The AI4Climate team organizes regular journal club meetings to discuss recent papers in AI and climate science. 
 
 ## Meetings
 
@@ -53,6 +53,18 @@ The AI4Climate team organizes regular journal club meetings to discuss recent pa
 - **June 17** | [Using machine learning to predict statistical properties of non-stationary dynamical processes](https://aip.scitation.org/doi/10.1063/5.0042598)  
   *Patel et al. (2021)* — Led by **Julien Brajard**
 
+- **May 29** | [Improving El Nino Forecasts with Graph Neural Networks](https://arxiv.org/abs/2104.05089)  
+  *Cachay et al. (2021)* — Led by **Joana Roussillon**
+
+- **April 29** | [Machine learning accelerated computational fluid dynamics](https://arxiv.org/abs/2102.01010)  
+  *Kochkov et al. (2021)* — Led by **Hugo Frezat**
+
+- **March 18** | [Using machine learning to correct model error in data assimilation and forecast applications](https://arxiv.org/abs/2010.12605)  
+  *Farchi et al. (2020)* — Led by **Alban Farchi**
+
+- **February 18** | [Taking climate model evaluation to the next level](https://www.nature.com/articles/s41558-018-0355-y)  
+  *Eyring et al. (2019)* — Led by **Pierre Le Bras**
+
 ### 2020
 
 - **December 17** | [DINCAE 1.0: a convolutional neural network with error estimates to reconstruct sea surface temperature satellite observations](https://gmd.copernicus.org/articles/13/1609/2020/)  
@@ -76,23 +88,18 @@ The AI4Climate team organizes regular journal club meetings to discuss recent pa
 - **May 28** | [Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563) + [Deep learning and process understanding for data-driven Earth system science](https://www.nature.com/articles/s41586-019-0912-1)  
   *Carleo et al. (2019) + Reichstein et al. (2019)* — Led by **Maike Sonnewald**
 
-- **May 29** | [Improving El Nino Forecasts with Graph Neural Networks](https://arxiv.org/abs/2104.05089)  
-  *Cachay et al. (2021)* — Led by **Joana Roussillon**
-
-- **April 29** | [Machine learning accelerated computational fluid dynamics](https://arxiv.org/abs/2102.01010)  
-  *Kochkov et al. (2021)* — Led by **Hugo Frezat**
-
 - **April 16** | [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/pdf/2001.04385.pdf)  
   *Rackauckas et al. (2020)* — Led by **Redouane Lguensat**
 
 - **March 19** | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469)  
   *Rasp et al. (2020)* — Led by **Julien Le Sommer**
 
-- **March 18** | [Using machine learning to correct model error in data assimilation and forecast applications](https://arxiv.org/abs/2010.12605)  
-  *Farchi et al. (2020)* — Led by **Alban Farchi**
-
 - **February 27** | [Deep learning to infer eddy heat fluxes from sea surface height patterns of mesoscale turbulence](https://eartharxiv.org/erhy2/)  
   *George et al. (2020)* — Led by **Julie Deshayes**
 
-- **February 18** | [Taking climate model evaluation to the next level](https://www.nature.com/articles/s41558-018-0355-y)  
-  *Eyring et al. (2019)* — Led by **Pierre Le Bras**
+## History
+
+The journal club was created by V. Balaji and Julie Deshayes in 2020 during V. Balaji's MOPGA stay at IPSL
+
+### Organisers:
+- Redouane Lguensat (2020 - now)
